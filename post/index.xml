@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hugo tranquilpeak theme</title>
-    <link>http://Supper123.github.io/post/</link>
+    <link>https://Supper123.github.io/post/</link>
     <description>Recent content in Posts on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jun 2019 11:41:44 +0800</lastBuildDate>
     
-	<atom:link href="http://Supper123.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Supper123.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>雨果（hugo）快速搭建静态博客</title>
-      <link>http://Supper123.github.io/2019/06/%E9%9B%A8%E6%9E%9Chugo%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://Supper123.github.io/2019/06/%E9%9B%A8%E6%9E%9Chugo%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 12 Jun 2019 11:41:44 +0800</pubDate>
       
-      <guid>http://Supper123.github.io/2019/06/%E9%9B%A8%E6%9E%9Chugo%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://Supper123.github.io/2019/06/%E9%9B%A8%E6%9E%9Chugo%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</guid>
       <description> —————————*菜鸟版教程*———————————
 1.Hugo介绍
-2.Hugo安装（Win10）
+2.Hugo安装（Windows10）
 3.Hugo使用
 4.发布到GitHub
 #Hugo介绍   Hugo是一个用Go编写的静态HTML和CSS网站生成器。 Hugo依赖Markdown文件和元数据的前端内容，您可以从任何目录运行Hugo。 适用于您没有特权帐户的共享主机和其他系统。 项目来源 http://gohugo.io/ #Hugo安装(Win10) &amp;mdash; 1.下载相应的ZIP文件，地址Hugo Release页面  2.将.zip文件解压到安装目录（假设为C:\Hugo\bin）
